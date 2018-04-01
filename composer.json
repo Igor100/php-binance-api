@@ -13,7 +13,7 @@
         "ratchet/pawl": "^0.3.0",
         "react/socket": "^1.0 || ^0.8 || ^0.7",
         "ratchet/rfc6455": "^0.2.3",
-        "jaggedsoft/php-binance-api": "dev-master"
+        "Igor100/php-binance-api": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.8"
